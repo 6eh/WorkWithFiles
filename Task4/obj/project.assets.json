@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task4/Task4.csproj",
-      "projectName": "Task4",
-      "projectPath": "/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task4/Task4.csproj",
+      "projectUniqueName": "/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task4/FinalTask.csproj",
+      "projectName": "FinalTask",
+      "projectPath": "/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task4/FinalTask.csproj",
       "packagesPath": "/Users/ownermac/.nuget/packages/",
       "outputPath": "/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task4/obj/",
       "projectStyle": "PackageReference",
