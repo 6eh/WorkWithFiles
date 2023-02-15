@@ -1,0 +1,16 @@
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/bin/Debug/net5.0/Task2
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/bin/Debug/net5.0/Task2.deps.json
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/bin/Debug/net5.0/Task2.runtimeconfig.json
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/bin/Debug/net5.0/Task2.runtimeconfig.dev.json
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/bin/Debug/net5.0/Task2.dll
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/bin/Debug/net5.0/Task2.pdb
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.csproj.AssemblyReference.cache
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.AssemblyInfoInputs.cache
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.AssemblyInfo.cs
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.csproj.CoreCompileInputs.cache
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.dll
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/refint/Task2.dll
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.pdb
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/Task2.genruntimeconfig.cache
+/Users/ownermac/Documents/VisualStudio Projects/SkillFactory/SF_Mod-8-FinalTask/WorkWithFiles/Task2/obj/Debug/net5.0/ref/Task2.dll
